@@ -1,8 +1,5 @@
-idea:
+mps:
     build: .
-    labels:
-        org.kurron.description: "JetBrains MPS DSL IDE"
-        org.kurron.version: "3.2.3"
     container_name: "mps"
     net: "host"
     volumes:
