@@ -1,5 +1,5 @@
 #Overview
-This project is a simple Docker image that runs [JetBrains IntelliJ IDE](http://www.jetbrains.com/).
+This project is a simple Docker image that runs [JetBrains MPS](https://www.jetbrains.com/mps/).
 
 #Prerequisites
 * a working [Docker](http://docker.io) engine
